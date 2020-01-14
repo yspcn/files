@@ -1,5 +1,0 @@
-
-config mwan3helper 'config'
-	option enabled '1'
-	option dns '8.8.4.4:53'
-
